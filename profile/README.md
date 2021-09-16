@@ -1,6 +1,7 @@
 <p align="center"><a href="https://codevisors.github.io"><img src="https://github.com/CodeVisors/.github/blob/main/assets/1620011289961.jpg"></a></p>
 
 <p align="center">CodeVisors, which loves creators and loves the Internet, is maintained by many repositories.</p>
+<p align="center">Visit <a href="https://awesomeopensource.com">awesomeopensource.com </a>To find open projects on Github</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+CodeVisors+GitHub+Org.;Let's+Support+each+other;Start+Contributing+now"></a>
