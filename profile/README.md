@@ -28,6 +28,6 @@
 - [community-blogs](https://github.com/CodeVisors/community-blogs): Write a blog with us
 - [pending-tasks](https://github.com/CodeVisors/pending-tasks): More tasks will be Updated here 
 
-## Swags Soon.....
+## Swags Coming Soon.....
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55637484/133582687-d07cf407-67fb-45a8-bddb-f8191b1a276a.jpg" width="400"/><img src="https://user-images.githubusercontent.com/55637484/133582703-aaee89c1-74c2-481c-8fff-c1655a1448f1.jpg" width="400"/></p>
