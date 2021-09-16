@@ -25,7 +25,7 @@
 #### What you can do ❓
 - [codevisors.github.io](https://codevisors.github.io): Create a Landing Page for Codevisors
 - [community-blogs](https://github.com/CodeVisors/community-blogs): Write a blog with us
-- [community-blogs](https://github.com/CodeVisors/pending-tasks): More tasks will be Updated here 
+- [pending-tasks](https://github.com/CodeVisors/pending-tasks): More tasks will be Updated here 
 
 ## Swags Soon.....
 <p align="center">
