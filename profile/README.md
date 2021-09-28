@@ -18,15 +18,14 @@
 1) <a href="https://github.com/CodeVisors/codevisors.github.io">codevisors.github.io</a> CodeVisors Landing Page (pending)
 2) <a href="https://github.com/CodeVisors/support">support</a> Support repo to join GitHub Org.
 3) <a href="https://github.com/CodeVisors/community-blogs">community-blogs </a> collection of community written blogs
-4) <a href="https://github.com/CodeVisors/pending-tasks">pending-tasks </a> list of tasks to be completed
 
 #### Contributors of the month 🌟
 
 
 #### What you can do ❓
 - [codevisors.github.io](https://codevisors.github.io): Create a Landing Page for Codevisors
-- [community-blogs](https://github.com/CodeVisors/community-blogs): Write a blog with us
-- [pending-tasks](https://github.com/CodeVisors/pending-tasks): More tasks will be Updated here 
+- [community-blogs](https://github.com/CodeVisors/community-blogs): Static blog using markdown and Next.js 
+- [codevisor-profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher): A simple Chrome Extension to manage all codevisor's social media profiles at one place
 
 ## Swags Coming Soon.....
 <p align="center">
