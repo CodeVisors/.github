@@ -17,8 +17,8 @@
 #### Below is a list of the most important repositories 📙
 1) <a href="https://github.com/CodeVisors/codevisors.github.io">codevisors.github.io</a> CodeVisors Landing Page (pending)
 2) <a href="https://github.com/CodeVisors/support">support</a> Support repo to join GitHub Org.
-3) <a href="https://github.com/CodeVisors/community-blogs">community-blogs </a> collection of community written blogs
-4) <a href="https://github.com/CodeVisors/testimonials">testimonials</a>Testimonials written by members. anyone is wellcome to collaborate.
+3) <a href="https://github.com/CodeVisors/community-blogs">community-blogs </a> Collection of community written blogs
+4) <a href="https://github.com/CodeVisors/testimonials">testimonials</a> Testimonials written by members. anyone is wellcome to collaborate.
 
 #### Contributors of the month 🌟
 
