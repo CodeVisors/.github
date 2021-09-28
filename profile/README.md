@@ -26,8 +26,6 @@
 - [profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher): A simple Chrome Extension to manage all codevisor's social media profiles at one place
 - [twitter-bot](https://github.com/CodeVisors/codevisor-twitter-bot): An open source bot which retweets and replies to tweets containing #CodeVisors
 
-#### Contributors of the month 🌟
-
 
 ## Swags Coming Soon.....
 <p align="center">
