@@ -20,14 +20,14 @@
 3) <a href="https://github.com/CodeVisors/community-blogs">community-blogs </a> Collection of community written blogs
 4) <a href="https://github.com/CodeVisors/testimonials">testimonials</a> Testimonials written by members. anyone is wellcome to collaborate.
 
-#### Contributors of the month 🌟
-
-
 #### What you can do ❓
 - [codevisors.github.io](https://codevisors.github.io): Create a Landing Page for Codevisors
 - [community-blogs](https://github.com/CodeVisors/community-blogs): Static blog using markdown and Next.js 
 - [profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher): A simple Chrome Extension to manage all codevisor's social media profiles at one place
 - [twitter-bot](https://github.com/CodeVisors/codevisor-twitter-bot): An open source bot which retweets and replies to tweets containing #CodeVisors
+
+#### Contributors of the month 🌟
+
 
 ## Swags Coming Soon.....
 <p align="center">
