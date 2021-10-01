@@ -25,6 +25,7 @@
 - [community-blogs](https://github.com/CodeVisors/community-blogs): Static blog using markdown and Next.js 
 - [profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher): A simple Chrome Extension to manage all codevisor's social media profiles at one place
 - [twitter-bot](https://github.com/CodeVisors/codevisor-twitter-bot): An open source bot which retweets and replies to tweets containing #CodeVisors
+- [discord-bot](https://github.com/CodeVisors/codevisor-discord-bot): A Discord Bot for CodeVisor's Discord Server Resources
 - [todo-list-extension](https://github.com/CodeVisors/todo-list-extension): To do list chrome extension
 - [dad-jokes-extension](https://github.com/CodeVisors/dad-jokes-extension): Chrome extension that shows a random jokes
 - [testimonials](https://github.com/CodeVisors/testimonials): Testimonials written by members. anyone is wellcome to collaborate.
