@@ -15,20 +15,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Below is a list of the most important repositories 📙
-1) <a href="https://github.com/CodeVisors/codevisors.github.io">codevisors.github.io</a> CodeVisors Landing Page (pending)
+1) <a href="https://github.com/CodeVisors/codevisors.github.io">codevisors.github.io</a> CodeVisors Landing Page (pending).
 2) <a href="https://github.com/CodeVisors/support">support</a> Support repo to join GitHub Org.
-3) <a href="https://github.com/CodeVisors/community-blogs">community-blogs </a> Collection of community written blogs
+3) <a href="https://github.com/CodeVisors/community-blogs">community-blogs </a> Collection of community written blogs.
 4) <a href="https://github.com/CodeVisors/testimonials">testimonials</a> Testimonials written by members. anyone is wellcome to collaborate.
 
 #### What you can do ❓ (all the repos. are Hacktoberfest accepted)
-- [codevisors.github.io](https://codevisors.github.io): Create a Landing Page for Codevisors
-- [community-blogs](https://github.com/CodeVisors/community-blogs): Static blog using markdown and Next.js 
-- [profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher): A simple Chrome Extension to manage all codevisor's social media profiles at one place
-- [twitter-bot](https://github.com/CodeVisors/codevisor-twitter-bot): An open source bot which retweets and replies to tweets containing #CodeVisors
-- [discord-bot](https://github.com/CodeVisors/codevisor-discord-bot): A Discord Bot for CodeVisor's Discord Server Resources
-- [todo-list-extension](https://github.com/CodeVisors/todo-list-extension): To do list chrome extension
-- [dad-jokes-extension](https://github.com/CodeVisors/dad-jokes-extension): Chrome extension that shows a random jokes
+- [codevisors.github.io](https://codevisors.github.io): Create a Landing Page for Codevisors.
+- [community-blogs](https://github.com/CodeVisors/community-blogs): Static blog using markdown and Next.js.
+- [profile-launcher](https://github.com/CodeVisors/codevisor-profile-launcher): A simple Chrome Extension to manage all codevisor's social media profiles at one place.
+- [twitter-bot](https://github.com/CodeVisors/codevisor-twitter-bot): An open source bot which retweets and replies to tweets containing #CodeVisors.
+- [discord-bot](https://github.com/CodeVisors/codevisor-discord-bot): A Discord Bot for CodeVisor's Discord Server Resources.
+- [todo-list-extension](https://github.com/CodeVisors/todo-list-extension): To do list chrome extension.
+- [dad-jokes-extension](https://github.com/CodeVisors/dad-jokes-extension): Chrome extension that shows a random jokes.
 - [testimonials](https://github.com/CodeVisors/testimonials): Testimonials written by members. anyone is wellcome to collaborate.
+- [swags](https://github.com/CodeVisors/swags): Show off your swags that you've accumulated so far.
 
 ## Swags Coming Soon.....
 <p align="center">
