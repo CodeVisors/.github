@@ -12,6 +12,25 @@
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi"><img src="https://img.shields.io/twitter/follow/ankushsgandhi?color=1DA1F2&logo=twitter&style=for-the-badge"></a>
 </p>
 
+<p align="center">
+
+  <a href="http://twitter.com/ankushsgandhi">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/company/codevisors/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="http://www.youtube.com/c/TechXtreme">
+    <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/47vQN9Z3XB">
+    <img src="https://img.shields.io/badge/-Discord-purple?style=flat-square&logo=Discord&logoColor=white"/>
+  </a>
+    <a href="https://codevisors.substack.com/subscribe">
+    <img src="https://img.shields.io/badge/-NewsLetter-grey?style=flat-square&logo=Substack&logoColor=white"/>
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Below is a list of the most important repositories 📙
@@ -34,23 +53,3 @@
 ## Swags Coming Soon.....
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55637484/133582687-d07cf407-67fb-45a8-bddb-f8191b1a276a.jpg" width="400"/><img src="https://user-images.githubusercontent.com/55637484/133582703-aaee89c1-74c2-481c-8fff-c1655a1448f1.jpg" width="400"/></p>
-
-
-<p align="center">
-
-  <a href="http://twitter.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-   <a href="https://www.linkedin.com/company/codevisors/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="http://www.youtube.com/c/TechXtreme">
-    <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/47vQN9Z3XB">
-    <img src="https://img.shields.io/badge/-Discord-purple?style=flat-square&logo=Discord&logoColor=white"/>
-  </a>
-    <a href="https://codevisors.substack.com/subscribe">
-    <img src="https://img.shields.io/badge/-NewsLetter-grey?style=flat-square&logo=Substack&logoColor=white"/>
-  </a>
-</p>
